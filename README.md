@@ -1,4 +1,4 @@
-# MokaLink
+# MokaLink-Bisdig_UNNES
 
 Dashboard MokaLink untuk mencari UMKM sekitar, membuat pesanan, dan melihat
 riwayat transaksi. Antarmuka dibuat dengan Next.js dan autentikasi serta data
